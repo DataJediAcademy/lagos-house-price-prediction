@@ -12,7 +12,7 @@ A week after your resumption, you get a mail from your boss with the following d
 > Based on the analysis recently done by the UI/UX team, the average customer typically needs to go through 10-20 web pages of properties to develop reasonable budget estimate. They believe this is not efficient and suggested we develop an algorithm that does this at the click of a button.
 > 
 
-Also they indicated that we create another feature that recommends areas/houses to rent a house based on customer budget, size of house, desired commute time to work etc. The feature should be able to recommend top 5 options closest to the parameters customers provided.
+> Also they indicated that we create another feature that recommends areas/houses to rent a house based on customer budget, size of house, desired commute time to work etc. The feature should be able to recommend top 5 options closest to the parameters customers provided.
 
 ### Tools
 - [Plotly Dash](https://dash.plotly.com/) for visualization and web apps.
